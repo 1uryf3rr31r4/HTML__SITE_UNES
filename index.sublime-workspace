@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"bo",
+				"body\tTag"
+			],
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"infec",
+				"infectedByRegion"
+			],
+			[
+				"gra",
+				"graficoDec"
+			],
+			[
+				"graf",
+				"graficoDec"
+			],
+			[
+				"dadosDe",
+				"dadosDecT"
+			],
+			[
+				"dad",
+				"dadosDecT"
+			],
+			[
+				"dado",
+				"dadosInfT"
+			],
+			[
+				"dados",
+				"dadosInfT"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"dadosD",
+				"dadosDecC"
+			],
+			[
+				"da",
+				"dados"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"table",
+				"table-cell\tdisplay"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"exe",
+				"execCommand"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"sec",
+				"select\tTag"
+			],
+			[
+				"r",
+				"richTextField"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Iury/Desktop/Primeiro Projeto/contato.html",
+		"/C/Users/Iury/Desktop/Primeiro Projeto/index.html",
+		"/C/Users/Iury/Desktop/Primeiro Projeto/projeto.html",
+		"/C/Users/Iury/Desktop/Primeiro Projeto/imagens/contato.html",
+		"/C/Users/Iury/Desktop/Projeto Final/index.html",
+		"/C/Users/Iury/Desktop/Projeto Aula/CSS/style.css",
+		"/C/Users/Iury/Desktop/Projeto Aula/index.html",
+		"/C/wamp64/www/COVID19/painel.php",
+		"/C/wamp64/www/COVID19/grafico.php",
+		"/C/wamp64/www/COVID19/css/style.css",
+		"/C/wamp64/www/COVID19/tabela.php",
+		"/C/wamp64/www/dashboardbuilder-v45-FREE/lib/top.php",
+		"/C/wamp64/www/dashboardbuilder-v45-FREE/index.php",
+		"/C/wamp64/www/COVID/tabela.php",
+		"/C/wamp64/www/COVID/grafico.php",
+		"/C/wamp64/www/COVID/css/style.css",
+		"/C/wamp64/www/COVID/grafico2.php",
+		"/C/wamp64/www/COVID/phplot.php",
+		"/C/wamp64/www/COVID/conteudo2.php",
+		"/C/wamp64/www/COVID/topo.php",
+		"/C/wamp64/www/COVID/rodape.php",
+		"/C/wamp64/www/WALLET/login.php",
+		"/C/wamp64/www/WALLET/config.php",
+		"/C/wamp64/www/WALLET/functions.php",
+		"/C/wamp64/www/WALLET/index.php",
+		"/C/wamp64/www/COVID/index.php",
+		"/C/wamp64/www/AgendaTelefonica_PHP/topo.php",
+		"/C/wamp64/www/AgendaTelefonica_PHP/index.php",
+		"/C/wamp64/www/aula/dados.php",
+		"/C/wamp64/www/notasBimestrais/mediaBim.php",
+		"/C/wamp64/www/somaDoisNumeros/numeros.php",
+		"/C/Users/Iury/PHP_AbelhasFlores/AbelhasFlores/index.php",
+		"/C/wamp64/www/AgendaTelefonica_PHP/upload_foto.php",
+		"/C/wamp64/www/AgendaTelefonica_PHP/rodape.php",
+		"/C/wamp64/www/Bobs_Auto_Parts/processorder.php",
+		"/C/wamp64/www/Bobs_Auto_Parts/orderfrom.html",
+		"/C/wamp64/www/VIVI_CONFECCOES/index.php",
+		"/C/wamp64/www/WALLET/styles.css",
+		"/C/wamp64/www/WALLET/scripts.js",
+		"/C/wamp64/www/loja/index.php",
+		"/C/Users/Iury/aula_Javascript/index.html",
+		"/C/Users/Iury/aula_Javascript/main.js",
+		"/C/wamp64/www/AgendaTelefonica_PHP/css/style.css",
+		"/C/Users/Iury/aula_bootstrap/index.html",
+		"/C/Users/Iury/aula_html5_css3/index.html",
+		"/C/BACKUP/PHP/AgendaTelefonica/index.html",
+		"/C/BACKUP/PHP/Carteira/index.html",
+		"/C/Editor Rich Text/js.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
